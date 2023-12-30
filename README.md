@@ -6,10 +6,10 @@
       <img alt="Geliştiriciler" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
     <a href="https://drive.google.com/file/d/1cGvwIURvc4rO5IQbXumV678r9LFlV6bu/view?usp=sharing">
-      <img alt="Son Sürüm" src="https://img.shields.io/badge/22H2 v.1.1 (Playbook)%20-%2009%2008%2023?style=flat-square&label=Son%20S%C3%BCr%C3%BCm" />
+      <img alt="Sürümler" src="https://img.shields.io/badge/Google Drive%20-%2009%2008%2023?style=flat-square&label=S%C3%BCr%C3%BCmler" />
     </a>
     <a href="https://drive.google.com/file/d/1zUJuQSIZRcgQ1mazeiv5Mtq5VBbIowsE/view">
-      <img alt="İndir" src="https://img.shields.io/badge/22H2 v.1.1 (Playbook)-%202K?style=flat-square&label=%C4%B0ndir" />
+      <img alt="İndir" src="https://img.shields.io/badge/10&11 v.1.1 (Playbook)-%202K?style=flat-square&label=%C4%B0ndir" />
     </a>
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
@@ -22,7 +22,7 @@
 
 ## 🤔 **readyOS nedir?**
 
-readyOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ready-os.github.io/) öğrenebilirsiniz.
+readyOS; Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ready-os.github.io/) öğrenebilirsiniz.
 
 ## 📥 **Nasıl İndirilir?**
 
