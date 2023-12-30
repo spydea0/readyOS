@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://ready-os.github.io/"><img src="https://raw.githubusercontent.com/spydea0/readyOS/main/Foto%C4%9Fraflar/readyOS_MAIN.png" alt="readyOS" width="900" style="border-radius: 30px"></a>
+  <a href="https://ready-os.github.io/"><img src="https://raw.githubusercontent.com/spydea0/readyOS/main/readyOS%20Old/Foto%C4%9Fraflar/readyOS_MAIN.png" alt="readyOS" width="900" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
     <a href="https://github.com/spydea0/readyOS/graphs/contributors">
