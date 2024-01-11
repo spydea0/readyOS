@@ -6,7 +6,7 @@
       <img alt="Sürümler" src="https://img.shields.io/badge/Sürümler-%2309393a?style=for-the-badge&logo=serverless&logoColor=white&style=flat" />
     </a>
     <a href="https://drive.google.com/file/d/1cGvwIURvc4rO5IQbXumV678r9LFlV6bu">
-      <img alt="İndir" src="https://img.shields.io/badge/v.1.1 (Playbook)-%2309393a?style=for-the-badge&logo=windows&logoColor=white&style=flat" />
+      <img alt="İndir" src="https://img.shields.io/badge/v.1.2 (Playbook)-%2309393a?style=for-the-badge&logo=windows&logoColor=white&style=flat" />
     </a>
     <a href="https://ready-os.github.io/">
       <img alt="İndir" src="https://img.shields.io/badge/İnternet Sitesi-%2309393a?style=for-the-badge&logo=circuitverse&logoColor=white&style=flat" />
@@ -27,7 +27,7 @@ readyOS; Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm b
 
 2) "Sistem optimizasyonu [Playbook]" bölümüne giriş yapın.
 
-3) "Spydea_readyOS_Playbook_v1.1.ini" kalıbını seçin.
+3) "Spydea_readyOS_Playbook_v1.2.ini" kalıbını seçin.
 
 4) Gelen ekrandaki yönergelere uyarak kurulumu tamamlayın.
 
